@@ -3,11 +3,7 @@ package com.example.typoracrack
 import javafx.application.Application
 import javafx.fxml.FXMLLoader
 import javafx.scene.Scene
-import javafx.scene.control.Button
-import javafx.scene.layout.VBox
-import javafx.stage.DirectoryChooser
 import javafx.stage.Stage
-import java.io.File
 
 class Main : Application() {
     override fun start(primaryStage: Stage) {
